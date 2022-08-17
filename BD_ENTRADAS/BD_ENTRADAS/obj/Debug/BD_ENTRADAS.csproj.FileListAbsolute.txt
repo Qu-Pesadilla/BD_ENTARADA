@@ -1,0 +1,11 @@
+C:\Users\lenovo valle\Desktop\BD_ENTRADAS\BD_ENTRADAS\BD_ENTRADAS\bin\Debug\BD_ENTRADAS.exe.config
+C:\Users\lenovo valle\Desktop\BD_ENTRADAS\BD_ENTRADAS\BD_ENTRADAS\bin\Debug\BD_ENTRADAS.exe
+C:\Users\lenovo valle\Desktop\BD_ENTRADAS\BD_ENTRADAS\BD_ENTRADAS\bin\Debug\BD_ENTRADAS.pdb
+C:\Users\lenovo valle\Desktop\BD_ENTRADAS\BD_ENTRADAS\BD_ENTRADAS\obj\Debug\BD_ENTRADAS.csproj.AssemblyReference.cache
+C:\Users\lenovo valle\Desktop\BD_ENTRADAS\BD_ENTRADAS\BD_ENTRADAS\obj\Debug\BD_ENTRADAS.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo valle\Desktop\BD_ENTRADAS\BD_ENTRADAS\BD_ENTRADAS\obj\Debug\BD_ENTRADAS.REG_ENTR.resources
+C:\Users\lenovo valle\Desktop\BD_ENTRADAS\BD_ENTRADAS\BD_ENTRADAS\obj\Debug\BD_ENTRADAS.Properties.Resources.resources
+C:\Users\lenovo valle\Desktop\BD_ENTRADAS\BD_ENTRADAS\BD_ENTRADAS\obj\Debug\BD_ENTRADAS.csproj.GenerateResource.cache
+C:\Users\lenovo valle\Desktop\BD_ENTRADAS\BD_ENTRADAS\BD_ENTRADAS\obj\Debug\BD_ENTRADAS.csproj.CoreCompileInputs.cache
+C:\Users\lenovo valle\Desktop\BD_ENTRADAS\BD_ENTRADAS\BD_ENTRADAS\obj\Debug\BD_ENTRADAS.exe
+C:\Users\lenovo valle\Desktop\BD_ENTRADAS\BD_ENTRADAS\BD_ENTRADAS\obj\Debug\BD_ENTRADAS.pdb
